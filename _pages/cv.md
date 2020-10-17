@@ -11,49 +11,76 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Systems Biology, University of Oxford, 2020
+* Masters degree in Mathematics, Durham University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Assistant programmer
+    * European Molecular Biology Laboratory (EMBL) Heidelberg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016-2019: Teaching Assistant
+    * Mathematical Institute, University of Oxford
+    * Courses:
+        - C8.1 Stochastic differential equations
+        - B5.1 Stochastic modelling of biological processes
+        - B5.5 Further mathematical biology
+
+* 2016-2019: Demonstrator
+    * Doctoral Training Center, University of Oxford
+    * Courses:
+        - Essential maths
+        - High performance computing
+        - Introduction to C++
+        - Computational biology
+        - Mathematical biology
+        - Introduction to programming
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* C++
+    - OpenMP
+    - MPI
+    - Boost
+    - Pybind11
+    - Chaste
+    - C++98, C++11 and C++17 standards
+* Python
+    - numpy
+    - matplotlib
+    - scipy
+    - pandas
+* Container
+    - Singularity
+    - Docker
+* Version control
+    - svn
+    - git
+* Matlab
+* Bash
+* HTML
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Additional experience
 ======
-* Currently signed in to 43 different slack teams
+* Contributor to a developmental biology group in the Oxford Science Festival 2017
+* Mentor to DPhil student in a buddy programme at Mathematical Institute, University of Oxford
