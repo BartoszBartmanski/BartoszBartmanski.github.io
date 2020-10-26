@@ -38,7 +38,6 @@ Work experience
 
 Skills
 ======
-
 * C++
     - OpenMP
     - MPI
@@ -79,8 +78,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Additional experience
-======
-* Contributor to a developmental biology group in the Oxford Science Festival 2017
-* Mentor to DPhil student in a buddy programme at Mathematical Institute, University of Oxford
