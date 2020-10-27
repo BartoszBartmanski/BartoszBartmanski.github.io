@@ -12,4 +12,9 @@ redirect_from:
 
 I am a scientific programmer at the European Molecular Biology Laboratory ([EMBL](https://www.embl.de/)) in the [Zimmermann lab](https://www.embl.de/research/units/scb/zimmermann/). Prior to EMBL, I was working on my DPhil at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of the [University of Oxford](https://www.ox.ac.uk/) on "Efficient methods for simulating stochastic reaction-diffusion models on evolving domains" under the supervision of [Prof. Ruth Baker](https://www.maths.ox.ac.uk/people/ruth.baker).  
 
-## Research overview
+My previous work has mostly focused on developing software for simulation and analysis of stochastic reaction-diffusion systems on evolving domains. More recently, I have focused on using machine learning approaches to predict and analyse mass spectrometry data. Overall, I am interested in developing and applying mathematical and computational tools to provide insight of the phenomena under study in different disciplines.
+
+I am passionate in promoting good software development practices such as:
+* unit-testing
+* continuous integration
+* clear and extensive documentation

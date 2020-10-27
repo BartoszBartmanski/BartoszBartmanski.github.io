@@ -28,9 +28,9 @@ redirect_from:
 * 2016-2019: Teaching Assistant at Mathematical Institute, University of Oxford
     * Aided lessons and marked students' work
     * Courses:
-        - C8.1 Stochastic differential equations
-        - B5.1 Stochastic modelling of biological processes
-        - B5.5 Further mathematical biology
+        - Stochastic differential equations
+        - Stochastic modelling of biological processes
+        - Further mathematical biology
 
 * 2016-2019: Demonstrator at Doctoral Training Center, University of Oxford
     * Worked with students one-on-one to clarify concepts presented in lectures and marked students' work
