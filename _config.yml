@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bartosz Bartmanski"
 title_separator          : "-"
 name                     : &name "Bartosz Bartmanski"
-description              : &description "Applied Mathematician Scientific Programmer"
+description              : &description "Scientific Programmer Applied Mathematician"
 url                      : https://bartoszbartmanski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BartoszBartmanski/BartoszBartmanski.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@B_Bartmanski"
+  twitter          : "B_Bartmanski"
   vine             :
   weibo            :
   xing             :
