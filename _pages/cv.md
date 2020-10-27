@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D in Systems Biology, University of Oxford, 2020
 * Masters degree in Mathematics, Durham University, 2015
 
-Work experience
-======
+## Work experience
+
 * 2019-2020: Assistant programmer
     * European Molecular Biology Laboratory (EMBL) Heidelberg
 
@@ -36,8 +36,8 @@ Work experience
         - Mathematical biology
         - Introduction to programming
 
-Skills
-======
+## Skills
+
 * C++
     - OpenMP
     - MPI
@@ -59,22 +59,3 @@ Skills
 * Matlab
 * Bash
 * HTML
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
