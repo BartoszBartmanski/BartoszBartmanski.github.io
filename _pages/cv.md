@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 
 * Ph.D in Systems Biology, University of Oxford, 2020
@@ -52,16 +50,32 @@ redirect_from:
     - Chaste
     - C++98, C++11 and C++17 standards
 * Python
-    - numpy
-    - matplotlib
-    - scipy
-    - pandas
+    - Numpy
+    - Matplotlib
+    - Scipy
+    - Pandas
 * Container
     - Singularity
     - Docker
+* Worflow management system
+    * Snakemake
+    * Nextflow
 * Version control
-    - svn
-    - git
+    - Subversion
+    - Git
 * Matlab
 * Bash
 * HTML
+
+## Additional experience
+
+* Contributor to a developmental biology group in the Oxford Science Festival 2017
+* Mentor in 'buddying' scheme for incoming DPhil students at the Mathematical Institute, University of Oxford
+
+## Languages
+
+* English - fluent
+* Polish - fluent
+* German - basic
+* Spanish - basic
+
