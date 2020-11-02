@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<!-- To generate pdf version: pandoc -s cv.md --template cv.latex -o cv.pdf -V geometry:margin=1in -->
+
 ## Education
 
 * Ph.D in Systems Biology, University of Oxford, 2020
@@ -65,6 +67,7 @@ redirect_from:
     - Git
 * Matlab
 * Bash
+* LaTeX
 * HTML
 
 ## Additional experience
@@ -79,3 +82,6 @@ redirect_from:
 * German - basic
 * Spanish - basic
 
+## Referees
+
+Available on request.
