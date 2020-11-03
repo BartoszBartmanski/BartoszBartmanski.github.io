@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- To generate pdf version: pandoc -s cv.md --template cv.latex -o cv.pdf -V geometry:margin=1in -->
+<!-- To generate pdf version: pandoc -s cv.md --template cv_wo_address.latex -o cv.pdf -V geometry:margin=1in -->
 
 ## Education
 
