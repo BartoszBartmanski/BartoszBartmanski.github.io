@@ -7,25 +7,16 @@ redirect_from:
   - /resume
 ---
 
-## Education
-
-* 2015-2020: PhD in Systems Biology, University of Oxford
-    * Thesis title: Efficient methods for simulating stochastic reaction-diffusion models on evolving domains
-    * Supervisor: Prof. Ruth Baker
-    * Implemented and analysed different stochastic models of reaction-diffusion systems
-    * Developed open-source packages for stochastic simulations and generation of non-uniform meshes
-    * Communicated scientific results in both oral presentations at international conferences and in scientific publications
-
-* 2011-2015: Masters degree in Mathematics (Integrated), Durham University
-    * Thesis title: Mathematical modelling of musical instruments - piano string
-    * Supervisor: Dr. Bernard Piette
-    * Applied theory of elasticity to model musical instruments
-
 ## Work experience
+
+* 2020-present: Research software engineer at Institute for Computational Biomedicine, Germany
+    * Improvement of existing software tools for parallelised high performance computing using MPI/OpenMP
+    * Development of computational pipelines for benchmarking using Snakemake, Python and R
+    * Development of continuous integration pipelines for unit-tests using Travis-CI
 
 * 2019-2020: Assistant programmer at European Molecular Biology Laboratory (EMBL) Heidelberg
     * Developed analysis pipelines to use machine learning approaches to improve compound identification using Docker and Singularity container technology and Snakemake workflow manager
-    * Compared simulated data with experimental data generated on-site through different statistical methods
+    * Compared simulated data with experimental data generated on-site through different statistical methods using various Python packages (e.g. RDkit)
     * Led the statistical analysis of several experimental data sets in collaboration with experimentalists
 
 * 2016-2019: Demonstrator at Doctoral Training Center, University of Oxford
@@ -35,6 +26,19 @@ redirect_from:
 * 2016-2019: Teaching Assistant at Mathematical Institute, University of Oxford
     * Courses: stochastic differential equations, stochastic modelling of biological processes, further mathematical biology
 
+## Education
+
+* 2015-2020: PhD in Applied Mathematics, University of Oxford
+    * Thesis title: Efficient methods for simulating stochastic reaction-diffusion models on evolving domains
+    * Supervisor: Prof. Ruth Baker
+    * Implemented and analysed different stochastic models of reaction-diffusion systems
+    * Developed open-source packages for stochastic simulations and generation of non-uniform meshes
+    * Communicated scientific results in both oral presentations at international conferences and in scientific publications
+
+* 2011-2015: Masters degree in Mathematics (Integrated), Durham University
+    * Joint undergraduate and masters degree in mathematics (MMath)
+    * Key subjects: PDEs, ODEs, Statistics, Complex Analysis, Numerical analysis
+    * Grade: 1st
 
 ## Technical skills
 
@@ -57,7 +61,7 @@ redirect_from:
 ## Awards
 
 * 2015-2019: Engineering and Physical Sciences Research Council (EPSRC) Systems Biology PhD grant
-* 2018: Oxford Universiry Travel funding
+* 2018: Oxford University Travel funding
 * 2018: Winner of G-Research competition at University of Oxford
 
 ## Extracurricular activities
@@ -70,4 +74,4 @@ redirect_from:
 * English - bilingual
 * Polish - bilingual
 * German - basic
-* Spanish - basic
+* Spanish - intermediate
