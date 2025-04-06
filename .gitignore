@@ -2,4 +2,5 @@ _site/
 vendor/
 .bundle/
 Gemfile.lock
+compose.yml
 notes.md
