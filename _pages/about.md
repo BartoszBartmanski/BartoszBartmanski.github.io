@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am a bioinformatician at Maria Zimmermann-Kogadeeva's group at European
+I am a quantitative scientist at Maria Zimmermann-Kogadeeva's group at European
 Molecular Biology Laboratory (EMBL) Heidelberg. Previously, I was a research
 software engineer at Julio Saez-Rodriguez's group at the Joint Research Center
 for Computational biomedicine, while my PhD was at the [Mathematical
