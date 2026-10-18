@@ -53,8 +53,8 @@ Key subjects: PDEs, ODEs, Statistics, Numerical Analysis
 
 ## Key skills
 
-**Modelling and statistics:** population PK/PD and PBPK (nlmixr2, rxode2, Monolix), nonlinear mixed-effects models, ODE/PDE and stochastic systems, model diagnostics, XGBoost, SHAP, PLS-DA, PyTorch
-**Pipelines and data:** Snakemake, Nextflow, SLURM/HPC, Dask, Parquet, HDF5, OME-Zarr, SQL, FAIR data standards, multi-omics integration (ChEMBL, DrugBank, MetaboLights)
-**Software engineering:** Python packaging and PyPI, pytest, GitLab CI/CD, GitHub Actions, Docker, Apptainer, Kubernetes, reproducible environments (uv, pixi, lockfiles)
-**AI and applications:** LLM-based agentic extraction with schema-constrained output and human review, Streamlit, R Shiny
-**Languages:** Python (11 yrs), R (6 yrs), C++ (5 yrs), Bash/Linux (10 yrs), Git (10 yrs). English and Polish, both fluent.
+**Modelling and statistics:** population PK/PD and PBPK (nlmixr2, rxode2, Monolix), nonlinear mixed-effects models, ODE/PDE and stochastic systems, model diagnostics, XGBoost, SHAP, PLS-DA, PyTorch  
+**Pipelines and data:** Snakemake, Nextflow, SLURM/HPC, Dask, Parquet, HDF5, OME-Zarr, SQL, FAIR data standards, multi-omics integration (ChEMBL, DrugBank, MetaboLights)  
+**Software engineering:** Python packaging and PyPI, pytest, GitLab CI/CD, GitHub Actions, Docker, Apptainer, Kubernetes, reproducible environments (uv, pixi, lockfiles)  
+**AI and applications:** LLM-based agentic extraction with schema-constrained output and human review, Streamlit, R Shiny  
+**Languages:** Python (11 yrs), R (6 yrs), C++ (5 yrs), Bash/Linux (10 yrs), Git (10 yrs)
