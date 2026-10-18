@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.cv-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;      // on narrow phone screens the title drops below the dates
+  gap: 0.25em 1em;
+}

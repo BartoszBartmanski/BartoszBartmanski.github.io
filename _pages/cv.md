@@ -9,8 +9,8 @@ redirect_from:
 
 ## Work experience
 
-### Senior Staff Scientist
-European Molecular Biology Laboratory (EMBL), Heidelberg, Germany - (Nov 2021 to present)
+### <span class="cv-row"><span>**Senior Staff Scientist**</span><span>**Nov 2021 to present**</span></span>
+European Molecular Biology Laboratory (EMBL), Heidelberg, Germany
 
 - Released Maphelios, a Python package and Streamlit app for gain-of-function screen analysis, on PyPI with GitLab CI/CD and Kubernetes deployment (27 releases, ~20 users across 5 groups)
 - Built and ran 20+ tested Snakemake/Nextflow pipelines on SLURM (Docker, Apptainer) used by 3 teams, processing ~10k samples per month
