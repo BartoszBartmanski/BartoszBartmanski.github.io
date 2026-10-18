@@ -9,7 +9,7 @@ redirect_from:
 
 ## Work experience
 
-### <span class="cv-row"><span>**Senior Staff Scientist**</span><span>**Nov 2021 to present**</span></span>
+### <span class="cv-row"><span>Senior Staff Scientist</span><span>Nov 2021 to present</span></span>
 European Molecular Biology Laboratory (EMBL), Heidelberg, Germany
 
 - Released Maphelios, a Python package and Streamlit app for gain-of-function screen analysis, on PyPI with GitLab CI/CD and Kubernetes deployment (27 releases, ~20 users across 5 groups)
@@ -20,22 +20,22 @@ European Molecular Biology Laboratory (EMBL), Heidelberg, Germany
 - Built an LLM-based agentic system that turned ~2,300 scientific documents into structured records at 97% precision, with human-in-the-loop review
 - Trained XGBoost and PLS-DA models with SHAP interpretability to link molecular features to phenotypes
 
-### Research Software Engineer
-Institute for Computational Biomedicine, University Hospital, Heidelberg, Germany - (Jan to Nov 2021)
+### <span class="cv-row"><span>Research Software Engineer</span><span>Jan 2021 to Nov 2021</span></span>
+Institute for Computational Biomedicine, University Hospital, Heidelberg, Germany
 
 - Halved run time of a mechanistic modelling codebase on HPC by switching the solver from CPLEX to Gurobi, enabling analyses across 100 drug perturbations
 - Built reproducible benchmarking pipelines (Snakemake) comparing modelling approaches and solvers on common tasks
 - Introduced version control, automated testing, documentation and monthly code reviews
 
-### Assistant Programmer
-European Molecular Biology Laboratory (EMBL), Heidelberg, Germany - (Oct 2019 to Dec 2020)
+### <span class="cv-row"><span>Assistant Programmer</span><span>Oct 2019 to Dec 2020</span></span>
+European Molecular Biology Laboratory (EMBL), Heidelberg, Germany
 
 - Integrated ChEMBL, DrugBank and MetaboLights into harmonised ML training datasets, reconciling sources with different identifiers and standards
 - Built a Snakemake pipeline for metabolomics data (104 GB, 1,700 samples) that extracts features for ML training
 - Analysed drug metabolism and drug-microbiome interactions in close collaboration with experimental scientists
 
-### Teaching Assistant
-University of Oxford, Oxford, UK - (Oct 2016 to Oct 2019)
+### <span class="cv-row"><span>Teaching Assistant</span><span>Oct 2016 to Oct 2019</span></span>
+University of Oxford, Oxford, UK
 
 Taught stochastic differential equations, computational biology and high-performance computing
 
