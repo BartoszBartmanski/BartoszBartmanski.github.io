@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bartosz Bartmanski"
 title_separator          : "-"
 name                     : &name "Bartosz Bartmanski"
-description              : &description "Scientific Programmer Applied Mathematician"
+description              : &description "Senior Staff Scientist, EMBL and Quantitative scientist | Software, data and models"
 url                      : https://bartoszbartmanski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BartoszBartmanski/BartoszBartmanski.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bartosz Bartmanski"
   avatar           : "bartosz.jpg"
-  bio              : "Scientific Programmer <br> Applied Mathematician"
+  bio              : "Senior Staff Scientist, EMBL <br> Quantitative scientist <br> Software, data and models"
   location         : "Heidelberg, Germany"
-  employer         :
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yo-nIMAAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Bartosz_Bartmanski"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "bartosz-bartmanski-91090a169/"
+  linkedin         : "https://linkedin.com/in/bartoszbartmanski/"
   orcid            : "https://orcid.org/0000-0002-0495-9150"
   pinterest        :
   soundcloud       :
@@ -114,7 +114,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  gitlab           : "https://git.embl.org/users/bartmans/contributed" 
 
 
 # Reading Files
